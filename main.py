@@ -47,5 +47,9 @@ for quiz_question in quiz.questions:
     else:
         cprint("Sorry that wasn't right", main_color)
 
+<<<<<<< HEAD
 cprint("That's the end of the quiz", main_color)
+=======
+cprint("That's the end of the quiz!!", main_color)
+>>>>>>> 80e9a5c15db93b709424e9e3614c465d6cbad155
 cprint(f"You scored a {quiz.score} out of {len(quiz.questions)}")
