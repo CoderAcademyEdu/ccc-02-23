@@ -1,0 +1,35 @@
+[33mcommit a9bdcb08eeda6a4af900cd4793c23f5ccdbb71f6[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Garret Blankenship <garret.blankenship@coderacademy.edu.au>
+Date:   Wed Jul 8 09:10:33 2020 +1000
+
+    forgot to change some 'red' values to the value of main_color
+
+[33mcommit 970b0422e93dbe6541eb9feb733a9b1bec81ae25[m
+Author: Garret Blankenship <garret.blankenship@coderacademy.edu.au>
+Date:   Wed Jul 8 09:04:40 2020 +1000
+
+    completed test cases for Quiz class and fixed bug where incorrect_answers was not being properly decoded.
+
+[33mcommit 24131322db39687a4f5eee03001a1d9202759f89[m
+Author: Garret Blankenship <garret.blankenship@coderacademy.edu.au>
+Date:   Wed Jul 8 08:55:14 2020 +1000
+
+    modified get_questions in Quiz class to also decode the question content
+
+[33mcommit afee95d5f9e0cb4d44111204b94cc2e8d5ef1295[m
+Author: Garret Blankenship <garret.blankenship@coderacademy.edu.au>
+Date:   Wed Jul 8 08:13:14 2020 +1000
+
+    adjusted type hints and installed mypy for checking
+
+[33mcommit d2212c2f19dec281a007ea9e77d682f5a4aef2b1[m
+Author: Garret Blankenship <garret.blankenship@coderacademy.edu.au>
+Date:   Wed Jul 8 08:05:59 2020 +1000
+
+    completed tests for Question class
+
+[33mcommit eb208c649f48333b55a08c5042ebfa72a572b627[m
+Author: Garret Blankenship <garret.blankenship@coderacademy.edu.au>
+Date:   Wed Jul 8 07:45:06 2020 +1000
+
+    completed initial application
